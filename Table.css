@@ -1,0 +1,12 @@
+body{background-color: rgb(9, 108, 141);
+}
+table, td{border:1px solid black;
+    border-collapse:collapse;
+}
+td{vertical-align: top;
+}
+
+td{border:1px solid black;
+ width:50%;
+ height: 100px;
+}

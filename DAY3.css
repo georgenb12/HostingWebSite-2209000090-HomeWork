@@ -1,0 +1,35 @@
+/*body{background-color:Light blue} */
+#head2{border: 2px dotted blue;
+}
+#box1 {background-color: lightblue;
+        border: 2px solid blue;
+       color:blue;
+       width:300px;
+       margin:auto;       
+}
+body{background-color: rgb(243, 243, 243);}
+
+#navs a:link{background-color: lightblue;
+        margin-right:20px;
+        padding:10px;
+        text-decoration: none;
+        color:black
+}
+#navs a:hover{background-color: rgb(146, 170, 10);}
+#navs a:link {color: rgb(53, 191, 196);
+}
+  @media screen and (max-width:700px)
+ {
+  body{background-color: gray;} 
+  p{color:rgb(255, 0, 0)}  
+
+ }
+  @media screen and (max-width: 500px)
+
+{ 
+        body{background-color: gray;} 
+        p{color:rgb(255, 0, 0)}  
+      
+        #navs a:link{display:block;} 
+   #box1{width: 100%}   
+}

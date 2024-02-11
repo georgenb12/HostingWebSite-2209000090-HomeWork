@@ -1,0 +1,33 @@
+body{background-color: rgb(9, 108, 141);
+}
+table{
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    height: 600px;
+    border-collapse:collapse;
+}
+/* td{border:1px solid black;* */
+    
+td{vertical-align: top;
+}
+
+/* td{border: 90%8 */
+
+ #one{
+    background-color: rgb(140, 111, 194);
+    width: 150px;
+    height: 150px;
+
+ }
+
+#two{
+    background-color: lightgreen;
+
+    height: 150px;
+}
+#three{
+    background-color: orange;
+    idth: 150px;
+    height: 150px;
+}
